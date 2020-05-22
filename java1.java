@@ -1,2 +1,3 @@
 class java  
- HelloWorld
+ 你好，世界
+prai
